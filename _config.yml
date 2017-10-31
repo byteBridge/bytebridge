@@ -1,0 +1,52 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: ByteBridge
+motto: Bridging the digital divide, one byte at a time
+email: kgparadzyi@domain.com
+description: "ByteBridge is an innovation led company based in Zimbabwe and we develop custom software that solves your specific needs without extra overhead."
+
+
+# Team names, titles and social links
+people:
+- name: Kudakwashe Paradzayi
+  pic: 1
+  position: CEO and Senior Software Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Previous Kambati
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/kudapara
+  - title: facebook
+    url:
+  - title: github
+    url: http://github.com/bytebridge
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 6322 Southview
+  - line: Gweru, Zimbabwe
+
+# Build settings
+markdown: kramdown
+permalink: pretty
